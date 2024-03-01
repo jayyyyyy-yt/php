@@ -1,6 +1,6 @@
 <?php
      $s1= "hello";
      $s2= "world";
-     echo "<br />".$s11, "<br />".$s2;
+     echo "<br />".$s1, "<br />".$s2;
      
 ?>     
